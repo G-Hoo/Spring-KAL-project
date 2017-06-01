@@ -59,10 +59,6 @@ main.member=(function(){
 		   main.reservation.onCreate();
 	   });
 	   
-	   $('.after-kal-service-btn-content-question').on('click',function(){
-		   main.boardQna.addQna();
-	   });
-	   
 	   $('.after-login-kal-service-btn-content-faq').on('click',function(){
 		   main.boardQna.faq();
 	   });

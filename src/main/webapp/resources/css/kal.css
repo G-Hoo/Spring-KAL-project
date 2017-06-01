@@ -3067,7 +3067,6 @@
 
 .from-day{
   text-decoration: none;
-  display: block;
   color : black;
 }
 .from-day:hover{
@@ -3077,7 +3076,6 @@
 
 .to-day{
   text-decoration: none;
-  display: block;
   color : black;
 }
 .to-day:hover{
