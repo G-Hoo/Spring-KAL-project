@@ -19,7 +19,7 @@
 
 	<!--C -->
 	<insert id="addMember" parameterType="hashMap">
-	INSERT INTO MEMBER(user_id,user_pass,family_name,first_name,kor_name,phone_no,birth_date,user_gen,user_email,user_addr,user_post_num) 
+	INSERT INTO Member(user_id,user_pass,family_name,first_name,kor_name,phone_no,birth_date,user_gen,user_email,user_addr,user_post_num) 
 	VALUES (#{id}, #{pass}, #{familyName}, #{firstName}, #{korName}, #{phoneNo}, #{birthDate}, #{gen}, #{email}, #{addr}, #{postNum})
 	</insert>
 	
