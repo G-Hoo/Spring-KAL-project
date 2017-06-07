@@ -73,7 +73,7 @@ function createReservationCalendar(){
 						'<div class="column-item prev-month">29</div>'                                                     +
 						'<div class="column-item"><a class="from-day" href="javascript:void(0);">5</a></div>'              +
 						'<div class="column-item"><a class="from-day" href="javascript:void(0);">12</a></div>'             +
-						'<div class="column-item"><a class="from-day" href="javascript:void(0);">29</a></div>'             +
+						'<div class="column-item"><a class="from-day" href="javascript:void(0);">19</a></div>'             +
 						'<div class="column-item"><a class="from-day" href="javascript:void(0);">26</a></div>'             +
 					'</div>'                                                                                               +
 					'<div class="column">'                                                                                 +
